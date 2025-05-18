@@ -337,3 +337,5 @@ DNS is a crucial system that converts domain names into IP addresses, allowing u
 NetPractice is not just a theoretical project, but an interactive experience that teaches you to think like a network engineer. You'll leave with a solid understanding of how devices communicate, the steps to set up a network properly, and the ability to solve network issues on your own.        
 
 
+Thank you for checking out my NetPractice project! Stay tuned for more exciting challenges. 🔥
+
