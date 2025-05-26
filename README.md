@@ -1,7 +1,6 @@
 ## 🌐 NetPractice — An Engaging and Practical Introduction to the World of Networking        
 NetPractice is one of the networking projects at 1337/42 School, designed to help you understand how networks operate in practice, not just theoretically. You work with a network simulator, where you can build networks, configure addresses, and learn how communication happens between devices step by step.        
 
-
 ## 🧠 What will you gain from NetPractice?             
 🔹 A deep understanding of how networks work "under the hood."        
 🔹 Key concepts like: IP Address, Subnet Mask, Gateway, Routing, NAT, DNS, DHCP...        
@@ -9,24 +8,20 @@ NetPractice is one of the networking projects at 1337/42 School, designed to hel
 🔹 Strong logical and organizational skills in solving networking problems.        
 🔹 Excellent preparation for fields like Cybersecurity, System Administration, DevOps, or Network Engineering.        
 
-
 ## 📚 Here are some of the basic concepts related to the NetPractice project.       
 
 ## 🌐 What is a Network?   
 A network is a group of devices connected together to exchange data and information, using methods like cables or Wi-Fi.   
-
 
 ## 🎯 Why Do We Use Networks?   
 🔹 To share files and printers.   
 🔹 To access the internet from multiple devices.   
 🔹 To make communication between users easier.   
 
-
 ## 📌 Types of Networks:   
 🔹 LAN (Local Area Network): Covers a small area like a home or office.   
 🔹 WAN (Wide Area Network): Covers a large area, like the internet.   
 🔹 MAN (Metropolitan Area Network): Covers an entire city.   
-
 
 ## ⚙️ Basic Network Components:   
 🔹 Router: Connects the network to the internet.   
@@ -34,13 +29,11 @@ A network is a group of devices connected together to exchange data and informat
 🔹 IP Address: Uniquely identifies each device on the network.   
 🔹 Gateway: The access point for data to exit the local network.   
 
-
 ## 🌐 What is LAN?   
 LAN stands for Local Area Network.   
 🔹 It means: "Local Network"   
 🔹 It connects a group of devices within a limited and small geographic area such as a: 🏠 Home, 🏢 Office, or 🏫 School.   
 🔹 These networks are used to share data and resources like printers and files among connected devices.   
-
 
 ## 🏙️ What is MAN?   
 MAN stands for Metropolitan Area Network.   
@@ -48,19 +41,16 @@ MAN stands for Metropolitan Area Network.
 🔹 It connects a group of Local Area Networks (LANs) within the same city or metropolitan area.   
 #### A MAN is larger than a LAN but smaller than a WAN, and it's used to provide connectivity between organizations or facilities within the city.   
 
-
 ## 🌍 What is WAN?   
 WAN stands for Wide Area Network.   
 🔹 It means: "Wide Coverage Network"   
 🔹 It connects devices over very large distances, such as across cities, countries, or even the entire world.   
 #### The internet is the largest example of a WAN, as it links millions of networks and devices worldwide.   
 
-
 ## 🔌 What is Ethernet?   
 Ethernet is a technology used to connect electronic devices within a wired network.   
 🔹 It is one of the most common technologies in Local Area Networks (LAN) for enabling communication between devices via network cables.   
 🔹 It provides high and stable connection speeds.   
-
 
 ## 🌐 What is an IP Address?   
 An IP Address (Internet Protocol Address) is a unique numerical label assigned to each device connected to a network, allowing it to identify itself and communicate with other devices.   
@@ -73,7 +63,6 @@ It is like a home address, used to pinpoint the location of a device within the 
 #### Summary:   
 An IP Address is the device's identification card on the network. Without it, data exchange or communication with other devices is not possible.   
 
-
 ## 🌐 What is a Public IP?   
 A Public IP is an address assigned to your device or router by your Internet Service Provider (ISP), used to connect to the external world via the internet.   
 🔹 Features of Public IP:   
@@ -84,7 +73,6 @@ A Public IP is an address assigned to your device or router by your Internet Ser
 #### Summary:     
 A Public IP is your "global address" on the internet, enabling you to send and receive data from anywhere, but it requires proper security measures.   
 
-
 ## 🌐 What is a Private IP?   
 A Private IP is an IP address used within private networks (LANs) like homes or businesses.   
 🔹 It cannot be accessed directly from the internet.   
@@ -94,7 +82,6 @@ A Private IP is an IP address used within private networks (LANs) like homes or 
 🔹 Used for communication between devices within the same network only.   
 🔹 Contributes to security, as it is not directly exposed to internet attacks.   
 🔹 Automatically assigned by a device like a router using DHCP.   
-
 
 ## 🌐 What is a Static IP?   
 A Static IP (Static Internet Protocol Address) is an address that is manually assigned to a specific device within the network and remains constant over time, even after the device is rebooted.   
@@ -109,7 +96,6 @@ A Static IP (Static Internet Protocol Address) is an address that is manually as
 #### In summary:   
 A Static IP is an address that doesn't change and is used for devices that need a permanent and stable address within the network, ensuring continuous connection and service.      
 
-
 ## 🌐 What is a Dynamic IP?   
 A Dynamic IP is an IP address that is automatically assigned to devices by a DHCP server. It is temporary and may change each time the device reconnects to the network.   
 #### Features of Dynamic IP:   
@@ -119,7 +105,6 @@ A Dynamic IP is an IP address that is automatically assigned to devices by a DHC
 🔹 Ideal for regular devices (such as smartphones, computers, and home appliances) that don't require a permanent address.   
 ##### In summary:   
 A Dynamic IP is a variable address automatically assigned to your device when connecting, making it easier to manage addresses in large networks.   
-
 
 ## 🌐 What is a MAC Address?   
 MAC Address stands for Media Access Control Address. It is a unique identifier assigned to a network interface card (NIC) for communication on the physical network.   
@@ -132,7 +117,6 @@ MAC Address stands for Media Access Control Address. It is a unique identifier a
 🔹 Can be used to control network access (MAC filtering).   
 #### Summary:   
 A MAC address is a permanent, unique hardware address assigned to each network device. It helps identify devices on the local network and plays a critical role in data delivery within a LAN.   
-
 
 ## 🌐 What is a Subnet?   
 A Subnet (or Subnetwork) is the division of a larger network into smaller networks to improve network management and efficiency. Subnets are used to break down a large network into smaller sub-networks, helping to organize data traffic, reduce congestion, and enhance security.   
@@ -148,22 +132,17 @@ This process is used primarily in IPv4 and IPv6, and subnets are determined usin
 ##### In summary:   
 A Subnet is the division of a large network into smaller networks, helping to improve network performance, provide security, and simplify management.   
 
-
 ## 🌐 What is a Network Address?   
 A Network Address identifies the entire network and is used to route data to the specific subnet. It is the part of the IP address that refers to the network itself.   
-
 
 ## 🌐 What is a Host Address?   
 A Host Address identifies a specific device within the network and distinguishes each device from others within the same network. It is the part of the IP address used for addressing individual devices.   
 
-
 ## 🌐 What is a Broadcast Address?   
 A Broadcast Address is used to send data to all devices in the network simultaneously. It allows communication with every device on the network at once.   
 
-
 ## 🌐 What is a Loopback Address?   
 127.0.0.1 (Loopback Address) is used to test the connection to the same device. Data sent to this address is routed back to the device itself, allowing it to communicate with itself for testing purposes.   
-
 
 ## 🌐 What is the OSI Model?   
 The OSI (Open Systems Interconnection) Model is a conceptual framework used to understand how systems interact in a network. It consists of seven layers:   
@@ -191,7 +170,6 @@ Responsibilities: Provides services like HTTP for web browsing, FTP for file tra
 #### Summary:   
 The OSI Model helps in understanding how data is transmitted across networks by breaking the process into seven layers, each responsible for a specific part of data transfer, from the physical medium to the final application.   
 
-
 ## 🌐 What is TCP?   
 TCP stands for Transmission Control Protocol.   
 It is a protocol responsible for transferring data between devices in a reliable and orderly manner, ensuring that all data arrives intact and error-free.   
@@ -208,7 +186,6 @@ It is a protocol responsible for transferring data between devices in a reliable
 🔹 Slower than other protocols (like UDP) due to safety and error-checking steps.   
 #### Summary:   
 TCP is the protocol responsible for sending data securely and in an organized manner between devices, making sure it is reliable and error-free.   
-
 
 🌐 What is UDP?   
 UDP (User Datagram Protocol) is a protocol used for transmitting data between devices. It is characterized by sending data quickly, but without ensuring its arrival or proper order.   
@@ -227,16 +204,13 @@ UDP (User Datagram Protocol) is a protocol used for transmitting data between de
 #### Summary:   
 UDP is a fast but unreliable protocol, used in applications where speed of data transfer is more important than the accuracy of data delivery.   
 
-
 ## 🌐 What is a Protocol?   
 A protocol is a set of rules and guidelines that define how devices or systems communicate with each other over a network. It is the agreed-upon method for exchanging data between devices in a specific way.   
-
 
 ## 🌐 What is a Packet?   
 A packet is a small unit of data that is sent over a network. When the data is large, it is broken into several small packets that are sent independently across the network, and then reassembled at the receiving end to form the original data.   
 #### In Summary:
 A packet is a small unit of data transmitted over a network. Large data is divided into smaller packets for efficient transmission, and they are reassembled at the receiving end to recover the original data   
-
 
 ## 🌐 What is a Switch?   
 A switch is a network device used to connect multiple devices (like computers, printers, or servers) within the same local area network (LAN). It uses MAC addresses to forward data only to the specific device it’s intended for, rather than broadcasting it to all devices on the network.   
@@ -252,7 +226,6 @@ A switch is a network device used to connect multiple devices (like computers, p
 #### In Summary:   
 A switch is a smart network device that connects devices in a LAN and forwards data intelligently based on MAC addresses, making the network faster and more efficient.   
 
-
 ## 🌐 What is a Gateway?   
 A gateway is a network device that acts as a bridge between two different networks, often connecting a local network (LAN) to the internet. It translates data between different network protocols, allowing communication between systems that wouldn’t otherwise understand each other.   
 #### Key Role:    
@@ -267,7 +240,6 @@ A gateway is commonly used to connect internal networks (like your home or offic
 🔹 Often combines other functions like firewall, NAT, or proxy services.   
 #### In Summary:   
 A gateway connects your local network to the outside world (usually the internet), translating and routing data between different networks and protocols.   
-
 
 ## 🌐 What is a Router?   
 A router is a networking device that forwards data packets between different networks, typically between your local network (LAN) and the internet (WAN). It decides the best path for data to travel to its destination.   
@@ -287,7 +259,6 @@ Routers direct traffic—they determine where to send data based on IP addresses
 #### In Summary:    
 A router connects your local devices to other networks (like the internet) and manages the traffic flow, ensuring data goes where it needs to.   
 
-
 ## 🌐 What is DHCP?   
 DHCP (Dynamic Host Configuration Protocol) is a network protocol used to automatically assign IP addresses and other network configuration settings (like gateway and DNS) to devices on a network—without manual setup.   
 #### How it works:   
@@ -302,7 +273,6 @@ DHCP (Dynamic Host Configuration Protocol) is a network protocol used to automat
 #### In Summary:    
 DHCP automates the assignment of IP addresses and configuration, making networks easy to manage, especially when many devices are connected.   
 
-
 ## 🌐 What is NAT?   
 NAT (Network Address Translation) is a technique used to translate IP addresses between a private internal network (like your home Wi-Fi) and the public network (like the Internet).   
 #### How it works:   
@@ -315,7 +285,6 @@ NAT (Network Address Translation) is a technique used to translate IP addresses 
 🔹 Simplifies internal networking: Devices communicate freely inside the LAN.   
 #### In Summary:    
 NAT is a method that allows many internal devices to share a single public IP address, improving IP address efficiency, adding a layer of security, and making network management easier.   
-
 
 ## 🌐 What is DNS?   
 DNS stands for Domain Name System. It is like the phonebook of the internet, translating human-friendly domain names (like google.com) into IP addresses (like 142.250.190.14) that computers use to identify each other.   
@@ -330,7 +299,6 @@ DNS stands for Domain Name System. It is like the phonebook of the internet, tra
 🔹 Supports security features like DNSSEC to prevent spoofing.   
 #### Summary:   
 DNS is a crucial system that converts domain names into IP addresses, allowing users to browse the web easily without needing to memorize numbers.   
-
 
 
 ## ✨ Summary:        
