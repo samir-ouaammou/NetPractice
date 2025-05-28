@@ -7,6 +7,8 @@ NetPractice will help you build a strong foundation in networking by giving you 
 
 ---
 
+
+
 ## 🌐 What is a Network?
 A network is a group of devices (computers, phones, printers, etc.) connected together to share information and resources. Networks can be wired (using cables) or wireless (using Wi-Fi). The main goal is to allow devices to communicate, share files, printers, and access the internet.
 
@@ -96,6 +98,10 @@ A MAC (Media Access Control) address is a unique identifier assigned to a networ
 ## 🌐 What is a Subnet?
 A Subnet divides a large network into smaller, more manageable sections (subnetworks). This helps organize devices, improve performance, and enhance security. Subnetting uses a subnet mask to define which part of an IP address refers to the network and which part to the device.
 
+![Screenshot from 2025-05-28 13-20-36](https://github.com/user-attachments/assets/11da51ae-d829-42a8-b00f-d1ecf17e5a90)
+
+
+
 ---
 
 ## 🌐 What is a Network Address?
@@ -128,6 +134,8 @@ The OSI Model (Open Systems Interconnection) is a conceptual framework that desc
 6. **Presentation:** Translates, encrypts, or compresses data.
 7. **Application:** Where user applications access network services (web, email, etc.).
 
+![Screenshot from 2025-05-28 12-59-06](https://github.com/user-attachments/assets/f15d2d05-7407-45ae-930b-d129851fe5e4)
+
 ---
 
 ## 🌐 What is the TCP/IP Model?
@@ -136,6 +144,12 @@ The TCP/IP Model is the foundation of the internet. It has 4 layers:
 2. **Internet:** Routes packets between networks (IP).
 3. **Transport:** Provides reliable (TCP) or fast (UDP) data transfer.
 4. **Application:** Provides services for user applications (HTTP, FTP, DNS, etc.).
+
+![Screenshot from 2025-05-28 13-09-29](https://github.com/user-attachments/assets/00f88653-e942-4ed9-be29-c07d1e247c78)
+
+---
+
+![Screenshot from 2025-05-28 13-13-41](https://github.com/user-attachments/assets/5e14c76f-4847-4aad-8df8-40b850f12b16)
 
 ---
 
