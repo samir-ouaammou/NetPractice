@@ -209,7 +209,9 @@ DNS (Domain Name System) translates human-friendly domain names (like google.com
 - [Computer Networking: Principles, Protocols and Practice (Free Book)](https://www.computer-networking.info/) — Free, open-source networking book.
 - [How does the Internet work? (Mozilla)](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work) — Simple explanation of how the internet works.
 - [Networking Fundamentals (Microsoft Learn)](https://learn.microsoft.com/en-us/training/paths/network-fundamentals/) — Free Microsoft course on networking basics.
+- [YouTube: Network Direction - Networking Basics](https://www.youtube.com/@NetworkChuck/playlists) — Video playlist for visual learners.
 - [YouTube: Network Direction - Networking Basics](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi) — Video playlist for visual learners.
+- [YouTube: Network Direction - Networking Basics](https://www.youtube.com/@ITDose22/playlists) — Video playlist for visual learners.
 - [OpenClassrooms: Comprendre le réseau](https://openclassrooms.com/fr/courses/7170496-initiez-vous-au-fonctionnement-des-reseaux) — French course for understanding networks.
 
 ---
