@@ -7,6 +7,10 @@ NetPractice will help you build a strong foundation in networking by giving you 
 
 ---
 
+![image](https://github.com/user-attachments/assets/373af781-f439-46c0-a8da-a8193edebb58)
+
+---
+![Screenshot from 2025-05-28 13-37-47](https://github.com/user-attachments/assets/47db444a-cd95-4b46-8456-87ac6c45a57e)
 
 
 ## 🌐 What is a Network?
