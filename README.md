@@ -210,7 +210,6 @@ DNS (Domain Name System) translates human-friendly domain names (like google.com
 ## 📖 Recommended Resources
 
 - [YouTube: Network Direction - Networking Basics](https://www.youtube.com/@NetworkChuck/playlists) — Video playlist for visual learners.
-- [YouTube: Network Direction - Networking Basics](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi) — Video playlist for visual learners.
 - [YouTube: Network Direction - Networking Basics](https://www.youtube.com/@ITDose22/playlists) — Video playlist for visual learners.
 
 ---
